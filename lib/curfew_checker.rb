@@ -7,6 +7,8 @@ def simple_curfew_checker(time)
   
 end
 
+simple_curfew_checker
+
 def curfew_checker(time)
   # code goes here
 end
@@ -22,3 +24,9 @@ end
 def platinum_curfew_checker(current_time, curfew_time)
   # code goes here
 end
+
+# def mothers_day(name = "Mom")
+#   "Happy Mother's Day, #{name}!"
+# end
+
+# mothers_day("Beyonce")
