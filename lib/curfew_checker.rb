@@ -1,3 +1,5 @@
+time = Time.now
+
 def simple_curfew_checker(time)
   # code goes here
   
